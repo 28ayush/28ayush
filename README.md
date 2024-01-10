@@ -36,8 +36,9 @@
 <code><a href="https://www.mongodb.com/" title="MONGODB"><img loading="lazy" height="20" src="icons/mongodb.svg"></a></code>&nbsp;
 <br>
 
-
+###### Contact Me 
+LinkedIn-<a href="https://www.linkedin.com/in/ayush-varshney-7760a7204/">Ayush Varshney</a>
 
 <!-- footer -->
-<p align="center">I would be grateful for any financial support you can provide to help me continue contributing. Your donation will help me to cover the expenses of my studies, travel and other living expenses.</p>
+<p align="center">Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's code and innovate together! 🚀</p>
 

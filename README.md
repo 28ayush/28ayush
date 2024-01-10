@@ -21,7 +21,8 @@
 #### Frontend Langueges
 <code><a href="https://html.spec.whatwg.org/multipage/" title="HTML"><img loading="lazy" height="25" src="icons/html5.svg"></a></code>&nbsp;
 <code><a href="https://www.w3.org/TR/CSS/#css" title="CSS"><img loading="lazy" height="25" src="icons/css3.svg"></a></code>&nbsp;
-<code><a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JAVASCRIPT"><img loading="lazy" height="25" src="icons/javascript.svg"></a></code>&nbsp;
+<code><a href="https://www.javascript.com" title="JAVASCRIPT"><img loading="lazy" height="25" src="icons/javascript.svg"></a></code>&nbsp;
+<code><a href="https://www.sass-lang.com" title="SCSS"><img loading="lazy" height="25" src="icons/sass.svg"></a></code>&nbsp;
 
 
 ###### Frameworks
